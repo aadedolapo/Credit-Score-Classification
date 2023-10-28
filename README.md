@@ -44,7 +44,7 @@ The Credit_Score column is the target variable in this problem. You are required
 
 ## Data Science Tasks to Perform
 
-1. What are the best predictors to classify an individual cridt score
+1. What are the best predictors to classify an individual credit score
 2. what are those that seem to have to strongest association with the credit score of a person
 3. what are the explanations and insights behind those findings?
 4. What are interesting groupings of the data, involving one or two features, that show significant differences (e.g., trends, averages) in price? What can we learn from them and how useful could these findings be for the business?
